@@ -1,14 +1,17 @@
-numpy>=2.0
-pandas>=2.2
-matplotlib>=3.9
-seaborn>=0.13
-plotly>=5.24
-PyMySQL>=1.1
-SQLAlchemy>=2.0
-openpyxl>=3.1
-jupyter>=1.1
-jupyterlab>=4.3
-pyspark>=3.5
-pytest>=8.0
-ruff>=0.9
-python-dotenv>=1.0
+# Core teaching stack
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+openpyxl
+jupyterlab
+ipykernel
+
+# SQL / database lessons
+pymysql
+python-dotenv
+
+# Optional structured logging module
+# python-json-logger
+# structlog
