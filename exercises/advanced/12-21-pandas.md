@@ -2,141 +2,189 @@
 
 ## Lab 1: Series indexing
 
-**Objective:** Build a working solution for **Series indexing** using the concepts already taught in the course.
+**Objective:** Practice **Series indexing** by completing a small, testable task rather than only writing a demonstration.
 
-**Task:** Create a small, realistic example. Include normal input, one edge case, and a short explanation of your approach.
+**Task:** Use `datasets/titanic_demo.csv` when the task needs tabular data; otherwise create a DataFrame with at least 8 rows. Build a solution specifically for **Series indexing**. Document the input you used and the exact output you obtained. Report the resulting shape/columns or summary values and show the rows affected by your transformation.
 
-**Acceptance criteria:** The program runs without uncaught errors for valid input, uses meaningful names, and produces a result that can be checked manually.
+**Acceptance criteria:**
+- Required behavior works for the stated example.
+- Include at least 3 test cases: normal, boundary, and invalid/empty input where applicable.
+- Output is deterministic and easy to verify manually.
+- Use meaningful names and keep the solution scoped to the concept being practiced.
+- Do not use machine-specific paths or hard-coded credentials.
 
-**Challenge:** Add one improvement such as validation, reusable functions, or a more efficient implementation.
+**Challenge:** Add one extension that increases realism without changing the core requirement (for example validation, reusable functions, sorting, reporting, or a second input case).
 
-**Interview question:** Explain the key Python/data concept used here and when you would choose it over an alternative.
+**Interview question:** Why is **Series indexing** useful, and what common mistake would you watch for when implementing it?
 
 ---
 
 ## Lab 2: DataFrame construction
 
-**Objective:** Build a working solution for **DataFrame construction** using the concepts already taught in the course.
+**Objective:** Practice **DataFrame construction** by completing a small, testable task rather than only writing a demonstration.
 
-**Task:** Create a small, realistic example. Include normal input, one edge case, and a short explanation of your approach.
+**Task:** Use `datasets/titanic_demo.csv` when the task needs tabular data; otherwise create a DataFrame with at least 8 rows. Build a solution specifically for **DataFrame construction**. Document the input you used and the exact output you obtained. Report the resulting shape/columns or summary values and show the rows affected by your transformation.
 
-**Acceptance criteria:** The program runs without uncaught errors for valid input, uses meaningful names, and produces a result that can be checked manually.
+**Acceptance criteria:**
+- Required behavior works for the stated example.
+- Include at least 3 test cases: normal, boundary, and invalid/empty input where applicable.
+- Output is deterministic and easy to verify manually.
+- Use meaningful names and keep the solution scoped to the concept being practiced.
+- Do not use machine-specific paths or hard-coded credentials.
 
-**Challenge:** Add one improvement such as validation, reusable functions, or a more efficient implementation.
+**Challenge:** Add one extension that increases realism without changing the core requirement (for example validation, reusable functions, sorting, reporting, or a second input case).
 
-**Interview question:** Explain the key Python/data concept used here and when you would choose it over an alternative.
+**Interview question:** Why is **DataFrame construction** useful, and what common mistake would you watch for when implementing it?
 
 ---
 
 ## Lab 3: Filtering
 
-**Objective:** Build a working solution for **Filtering** using the concepts already taught in the course.
+**Objective:** Practice **Filtering** by completing a small, testable task rather than only writing a demonstration.
 
-**Task:** Create a small, realistic example. Include normal input, one edge case, and a short explanation of your approach.
+**Task:** Use `datasets/titanic_demo.csv` when the task needs tabular data; otherwise create a DataFrame with at least 8 rows. Build a solution specifically for **Filtering**. Document the input you used and the exact output you obtained. Report the resulting shape/columns or summary values and show the rows affected by your transformation.
 
-**Acceptance criteria:** The program runs without uncaught errors for valid input, uses meaningful names, and produces a result that can be checked manually.
+**Acceptance criteria:**
+- Required behavior works for the stated example.
+- Include at least 3 test cases: normal, boundary, and invalid/empty input where applicable.
+- Output is deterministic and easy to verify manually.
+- Use meaningful names and keep the solution scoped to the concept being practiced.
+- Do not use machine-specific paths or hard-coded credentials.
 
-**Challenge:** Add one improvement such as validation, reusable functions, or a more efficient implementation.
+**Challenge:** Add one extension that increases realism without changing the core requirement (for example validation, reusable functions, sorting, reporting, or a second input case).
 
-**Interview question:** Explain the key Python/data concept used here and when you would choose it over an alternative.
+**Interview question:** Why is **Filtering** useful, and what common mistake would you watch for when implementing it?
 
 ---
 
 ## Lab 4: Missing-value strategy
 
-**Objective:** Build a working solution for **Missing-value strategy** using the concepts already taught in the course.
+**Objective:** Practice **Missing-value strategy** by completing a small, testable task rather than only writing a demonstration.
 
-**Task:** Create a small, realistic example. Include normal input, one edge case, and a short explanation of your approach.
+**Task:** Use `datasets/titanic_demo.csv` when the task needs tabular data; otherwise create a DataFrame with at least 8 rows. Build a solution specifically for **Missing-value strategy**. Document the input you used and the exact output you obtained. Report the resulting shape/columns or summary values and show the rows affected by your transformation.
 
-**Acceptance criteria:** The program runs without uncaught errors for valid input, uses meaningful names, and produces a result that can be checked manually.
+**Acceptance criteria:**
+- Required behavior works for the stated example.
+- Include at least 3 test cases: normal, boundary, and invalid/empty input where applicable.
+- Output is deterministic and easy to verify manually.
+- Use meaningful names and keep the solution scoped to the concept being practiced.
+- Do not use machine-specific paths or hard-coded credentials.
 
-**Challenge:** Add one improvement such as validation, reusable functions, or a more efficient implementation.
+**Challenge:** Add one extension that increases realism without changing the core requirement (for example validation, reusable functions, sorting, reporting, or a second input case).
 
-**Interview question:** Explain the key Python/data concept used here and when you would choose it over an alternative.
+**Interview question:** Why is **Missing-value strategy** useful, and what common mistake would you watch for when implementing it?
 
 ---
 
 ## Lab 5: Duplicate handling
 
-**Objective:** Build a working solution for **Duplicate handling** using the concepts already taught in the course.
+**Objective:** Practice **Duplicate handling** by completing a small, testable task rather than only writing a demonstration.
 
-**Task:** Create a small, realistic example. Include normal input, one edge case, and a short explanation of your approach.
+**Task:** Use `datasets/titanic_demo.csv` when the task needs tabular data; otherwise create a DataFrame with at least 8 rows. Build a solution specifically for **Duplicate handling**. Document the input you used and the exact output you obtained. Report the resulting shape/columns or summary values and show the rows affected by your transformation.
 
-**Acceptance criteria:** The program runs without uncaught errors for valid input, uses meaningful names, and produces a result that can be checked manually.
+**Acceptance criteria:**
+- Required behavior works for the stated example.
+- Include at least 3 test cases: normal, boundary, and invalid/empty input where applicable.
+- Output is deterministic and easy to verify manually.
+- Use meaningful names and keep the solution scoped to the concept being practiced.
+- Do not use machine-specific paths or hard-coded credentials.
 
-**Challenge:** Add one improvement such as validation, reusable functions, or a more efficient implementation.
+**Challenge:** Add one extension that increases realism without changing the core requirement (for example validation, reusable functions, sorting, reporting, or a second input case).
 
-**Interview question:** Explain the key Python/data concept used here and when you would choose it over an alternative.
+**Interview question:** Why is **Duplicate handling** useful, and what common mistake would you watch for when implementing it?
 
 ---
 
 ## Lab 6: GroupBy summary
 
-**Objective:** Build a working solution for **GroupBy summary** using the concepts already taught in the course.
+**Objective:** Practice **GroupBy summary** by completing a small, testable task rather than only writing a demonstration.
 
-**Task:** Create a small, realistic example. Include normal input, one edge case, and a short explanation of your approach.
+**Task:** Use `datasets/titanic_demo.csv` when the task needs tabular data; otherwise create a DataFrame with at least 8 rows. Build a solution specifically for **GroupBy summary**. Document the input you used and the exact output you obtained. Report the resulting shape/columns or summary values and show the rows affected by your transformation.
 
-**Acceptance criteria:** The program runs without uncaught errors for valid input, uses meaningful names, and produces a result that can be checked manually.
+**Acceptance criteria:**
+- Required behavior works for the stated example.
+- Include at least 3 test cases: normal, boundary, and invalid/empty input where applicable.
+- Output is deterministic and easy to verify manually.
+- Use meaningful names and keep the solution scoped to the concept being practiced.
+- Do not use machine-specific paths or hard-coded credentials.
 
-**Challenge:** Add one improvement such as validation, reusable functions, or a more efficient implementation.
+**Challenge:** Add one extension that increases realism without changing the core requirement (for example validation, reusable functions, sorting, reporting, or a second input case).
 
-**Interview question:** Explain the key Python/data concept used here and when you would choose it over an alternative.
+**Interview question:** Why is **GroupBy summary** useful, and what common mistake would you watch for when implementing it?
 
 ---
 
 ## Lab 7: Merge two datasets
 
-**Objective:** Build a working solution for **Merge two datasets** using the concepts already taught in the course.
+**Objective:** Practice **Merge two datasets** by completing a small, testable task rather than only writing a demonstration.
 
-**Task:** Create a small, realistic example. Include normal input, one edge case, and a short explanation of your approach.
+**Task:** Use `datasets/titanic_demo.csv` when the task needs tabular data; otherwise create a DataFrame with at least 8 rows. Build a solution specifically for **Merge two datasets**. Document the input you used and the exact output you obtained. Report the resulting shape/columns or summary values and show the rows affected by your transformation.
 
-**Acceptance criteria:** The program runs without uncaught errors for valid input, uses meaningful names, and produces a result that can be checked manually.
+**Acceptance criteria:**
+- Required behavior works for the stated example.
+- Include at least 3 test cases: normal, boundary, and invalid/empty input where applicable.
+- Output is deterministic and easy to verify manually.
+- Use meaningful names and keep the solution scoped to the concept being practiced.
+- Do not use machine-specific paths or hard-coded credentials.
 
-**Challenge:** Add one improvement such as validation, reusable functions, or a more efficient implementation.
+**Challenge:** Add one extension that increases realism without changing the core requirement (for example validation, reusable functions, sorting, reporting, or a second input case).
 
-**Interview question:** Explain the key Python/data concept used here and when you would choose it over an alternative.
+**Interview question:** Why is **Merge two datasets** useful, and what common mistake would you watch for when implementing it?
 
 ---
 
 ## Lab 8: Pivot table
 
-**Objective:** Build a working solution for **Pivot table** using the concepts already taught in the course.
+**Objective:** Practice **Pivot table** by completing a small, testable task rather than only writing a demonstration.
 
-**Task:** Create a small, realistic example. Include normal input, one edge case, and a short explanation of your approach.
+**Task:** Use `datasets/titanic_demo.csv` when the task needs tabular data; otherwise create a DataFrame with at least 8 rows. Build a solution specifically for **Pivot table**. Document the input you used and the exact output you obtained. Report the resulting shape/columns or summary values and show the rows affected by your transformation.
 
-**Acceptance criteria:** The program runs without uncaught errors for valid input, uses meaningful names, and produces a result that can be checked manually.
+**Acceptance criteria:**
+- Required behavior works for the stated example.
+- Include at least 3 test cases: normal, boundary, and invalid/empty input where applicable.
+- Output is deterministic and easy to verify manually.
+- Use meaningful names and keep the solution scoped to the concept being practiced.
+- Do not use machine-specific paths or hard-coded credentials.
 
-**Challenge:** Add one improvement such as validation, reusable functions, or a more efficient implementation.
+**Challenge:** Add one extension that increases realism without changing the core requirement (for example validation, reusable functions, sorting, reporting, or a second input case).
 
-**Interview question:** Explain the key Python/data concept used here and when you would choose it over an alternative.
+**Interview question:** Why is **Pivot table** useful, and what common mistake would you watch for when implementing it?
 
 ---
 
 ## Lab 9: Datetime analysis
 
-**Objective:** Build a working solution for **Datetime analysis** using the concepts already taught in the course.
+**Objective:** Practice **Datetime analysis** by completing a small, testable task rather than only writing a demonstration.
 
-**Task:** Create a small, realistic example. Include normal input, one edge case, and a short explanation of your approach.
+**Task:** Use `datasets/titanic_demo.csv` when the task needs tabular data; otherwise create a DataFrame with at least 8 rows. Build a solution specifically for **Datetime analysis**. Document the input you used and the exact output you obtained. Report the resulting shape/columns or summary values and show the rows affected by your transformation.
 
-**Acceptance criteria:** The program runs without uncaught errors for valid input, uses meaningful names, and produces a result that can be checked manually.
+**Acceptance criteria:**
+- Required behavior works for the stated example.
+- Include at least 3 test cases: normal, boundary, and invalid/empty input where applicable.
+- Output is deterministic and easy to verify manually.
+- Use meaningful names and keep the solution scoped to the concept being practiced.
+- Do not use machine-specific paths or hard-coded credentials.
 
-**Challenge:** Add one improvement such as validation, reusable functions, or a more efficient implementation.
+**Challenge:** Add one extension that increases realism without changing the core requirement (for example validation, reusable functions, sorting, reporting, or a second input case).
 
-**Interview question:** Explain the key Python/data concept used here and when you would choose it over an alternative.
+**Interview question:** Why is **Datetime analysis** useful, and what common mistake would you watch for when implementing it?
 
 ---
 
 ## Lab 10: Pandas mini project
 
-**Objective:** Build a working solution for **Pandas mini project** using the concepts already taught in the course.
+**Objective:** Practice **Pandas mini project** by completing a small, testable task rather than only writing a demonstration.
 
-**Task:** Create a small, realistic example. Include normal input, one edge case, and a short explanation of your approach.
+**Task:** Use `datasets/titanic_demo.csv` when the task needs tabular data; otherwise create a DataFrame with at least 8 rows. Build a solution specifically for **Pandas mini project**. Document the input you used and the exact output you obtained. Report the resulting shape/columns or summary values and show the rows affected by your transformation.
 
-**Acceptance criteria:** The program runs without uncaught errors for valid input, uses meaningful names, and produces a result that can be checked manually.
+**Acceptance criteria:**
+- Required behavior works for the stated example.
+- Include at least 3 test cases: normal, boundary, and invalid/empty input where applicable.
+- Output is deterministic and easy to verify manually.
+- Use meaningful names and keep the solution scoped to the concept being practiced.
+- Do not use machine-specific paths or hard-coded credentials.
 
-**Challenge:** Add one improvement such as validation, reusable functions, or a more efficient implementation.
+**Challenge:** Add one extension that increases realism without changing the core requirement (for example validation, reusable functions, sorting, reporting, or a second input case).
 
-**Interview question:** Explain the key Python/data concept used here and when you would choose it over an alternative.
-
----
+**Interview question:** Why is **Pandas mini project** useful, and what common mistake would you watch for when implementing it?
 
