@@ -1,40 +1,24 @@
 # Course Roadmap
 
-## Phase 1 — Core Python
-- [ ] Basics
-- [ ] Control flow
-- [ ] Data structures
-- [ ] Functions
-- [ ] OOP
-- [ ] Exceptions
-- [ ] File handling
+## Foundation
+Python syntax, variables, types, operators, control flow, collections, and functions.
 
-## Phase 2 — Python Engineering
-- [ ] Modules and packages
-- [ ] Regular expressions
-- [ ] Iterators and generators
-- [ ] Decorators
-- [ ] Logging
+## Core Python
+OOP, exceptions, files, modules/packages, regular expressions, iterators/generators, decorators, and logging.
 
-## Phase 3 — Data Stack
-- [ ] NumPy
-- [ ] Pandas
-- [ ] Matplotlib
-- [ ] Seaborn
-- [ ] Plotly
-- [ ] SQL/PyMySQL
-- [ ] EDA
+## Data Stack
+NumPy, Pandas, Matplotlib, Seaborn, Plotly, SQL/PyMySQL, and EDA.
 
-## Phase 4 — Big Data
-- [ ] PySpark
+## Scale
+PySpark, distributed-data concepts, performance, and production-oriented patterns.
 
-## Phase 5 — Practice
-- [ ] 100+ labs
-- [ ] Interview question bank
-- [ ] Mini projects
-- [ ] End-to-end projects
-- [ ] CI quality checks
+## Lab System
+100 structured labs are currently available with beginner → intermediate → advanced progression, edge cases, extensions, and interview questions.
 
-## Migration
-
-Useful material from the legacy `B07_Python` repository will be reviewed and migrated module-by-module rather than copied wholesale.
+## Next curation targets
+1. Instructor solutions in a separate branch/repository.
+2. Automated notebook execution checks.
+3. Split remaining oversized notebooks.
+4. Project rubrics and datasets.
+5. Module-level assessments.
+6. Separate answer keys.
