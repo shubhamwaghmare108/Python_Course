@@ -18,5 +18,35 @@ jobs:
         run: ruff check .
       - name: Compile Python files
         run: python -m compileall -q .
+
       - name: Run tests
         run: pytest -q
+
+      - name: Validate notebook code syntax
+        run: |
+          python - <<'PY'
+          import ast
+          import json
+          from pathlib import Path
+
+          errors = []
+          for path in Path(".").rglob("*.ipynb"):
+              if any(part in {".git", ".venv", "demo_venv"} for part in path.parts):
+                  continue
+              try:
+                  notebook = json.loads(path.read_text(encoding="utf-8"))
+                  for index, cell in enumerate(notebook.get("cells", [])):
+                      if cell.get("cell_type") != "code":
+                          continue
+                      source = "".join(cell.get("source", []))
+                      if source.strip():
+                          ast.parse(source, filename=f"{path}:cell-{index}")
+              except Exception as exc:
+                  errors.append(f"{path}: {exc}")
+
+          if errors:
+              print("\n".join(errors))
+              raise SystemExit(1)
+
+          print("All notebook code cells passed Python syntax validation.")
+          PY
