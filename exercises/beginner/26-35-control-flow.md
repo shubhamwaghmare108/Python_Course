@@ -1,6 +1,6 @@
 # Curated Lab Set
 
-## Lab 1: FizzBuzz
+## Lab 26: FizzBuzz
 
 **Objective:** Practice **FizzBuzz** by completing a small, testable task rather than only writing a demonstration.
 
@@ -19,7 +19,7 @@
 
 ---
 
-## Lab 2: Prime check
+## Lab 27: Prime check
 
 **Objective:** Practice **Prime check** by completing a small, testable task rather than only writing a demonstration.
 
@@ -38,7 +38,7 @@
 
 ---
 
-## Lab 3: Prime numbers
+## Lab 28: Prime numbers
 
 **Objective:** Practice **Prime numbers** by completing a small, testable task rather than only writing a demonstration.
 
@@ -57,7 +57,7 @@
 
 ---
 
-## Lab 4: Factorial
+## Lab 29: Factorial
 
 **Objective:** Practice **Factorial** by completing a small, testable task rather than only writing a demonstration.
 
@@ -76,7 +76,7 @@
 
 ---
 
-## Lab 5: Fibonacci
+## Lab 30: Fibonacci
 
 **Objective:** Practice **Fibonacci** by completing a small, testable task rather than only writing a demonstration.
 
@@ -95,7 +95,7 @@
 
 ---
 
-## Lab 6: Sum of digits
+## Lab 31: Sum of digits
 
 **Objective:** Practice **Sum of digits** by completing a small, testable task rather than only writing a demonstration.
 
@@ -114,7 +114,7 @@
 
 ---
 
-## Lab 7: Reverse an integer
+## Lab 32: Reverse an integer
 
 **Objective:** Practice **Reverse an integer** by completing a small, testable task rather than only writing a demonstration.
 
@@ -133,7 +133,7 @@
 
 ---
 
-## Lab 8: Armstrong number
+## Lab 33: Armstrong number
 
 **Objective:** Practice **Armstrong number** by completing a small, testable task rather than only writing a demonstration.
 
@@ -152,7 +152,7 @@
 
 ---
 
-## Lab 9: Menu-driven program
+## Lab 34: Menu-driven program
 
 **Objective:** Practice **Menu-driven program** by completing a small, testable task rather than only writing a demonstration.
 
@@ -171,7 +171,7 @@
 
 ---
 
-## Lab 10: Input validation loop
+## Lab 35: Input validation loop
 
 **Objective:** Practice **Input validation loop** by completing a small, testable task rather than only writing a demonstration.
 
