@@ -1,6 +1,6 @@
 # Curated Lab Set
 
-## Lab 1: Tuple unpacking
+## Lab 16: Tuple unpacking
 
 **Objective:** Practice **Tuple unpacking** by completing a small, testable task rather than only writing a demonstration.
 
@@ -19,7 +19,7 @@
 
 ---
 
-## Lab 2: List deduplication
+## Lab 17: List deduplication
 
 **Objective:** Practice **List deduplication** by completing a small, testable task rather than only writing a demonstration.
 
@@ -38,7 +38,7 @@
 
 ---
 
-## Lab 3: List rotation
+## Lab 18: List rotation
 
 **Objective:** Practice **List rotation** by completing a small, testable task rather than only writing a demonstration.
 
@@ -57,7 +57,7 @@
 
 ---
 
-## Lab 4: Second largest value
+## Lab 19: Second largest value
 
 **Objective:** Practice **Second largest value** by completing a small, testable task rather than only writing a demonstration.
 
@@ -76,7 +76,7 @@
 
 ---
 
-## Lab 5: Common elements
+## Lab 20: Common elements
 
 **Objective:** Practice **Common elements** by completing a small, testable task rather than only writing a demonstration.
 
@@ -95,7 +95,7 @@
 
 ---
 
-## Lab 6: Set operations
+## Lab 21: Set operations
 
 **Objective:** Practice **Set operations** by completing a small, testable task rather than only writing a demonstration.
 
@@ -114,7 +114,7 @@
 
 ---
 
-## Lab 7: Dictionary lookup
+## Lab 22: Dictionary lookup
 
 **Objective:** Practice **Dictionary lookup** by completing a small, testable task rather than only writing a demonstration.
 
@@ -133,7 +133,7 @@
 
 ---
 
-## Lab 8: Word frequency
+## Lab 23: Word frequency
 
 **Objective:** Practice **Word frequency** by completing a small, testable task rather than only writing a demonstration.
 
@@ -152,7 +152,7 @@
 
 ---
 
-## Lab 9: Invert a dictionary
+## Lab 24: Invert a dictionary
 
 **Objective:** Practice **Invert a dictionary** by completing a small, testable task rather than only writing a demonstration.
 
@@ -171,7 +171,7 @@
 
 ---
 
-## Lab 10: Nested dictionary traversal
+## Lab 25: Nested dictionary traversal
 
 **Objective:** Practice **Nested dictionary traversal** by completing a small, testable task rather than only writing a demonstration.
 
