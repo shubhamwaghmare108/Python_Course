@@ -2,141 +2,189 @@
 
 ## Lab 1: Array broadcasting challenge
 
-**Objective:** Build a working solution for **Array broadcasting challenge** using the concepts already taught in the course.
+**Objective:** Practice **Array broadcasting challenge** by completing a small, testable task rather than only writing a demonstration.
 
-**Task:** Create a small, realistic example. Include normal input, one edge case, and a short explanation of your approach.
+**Task:** Create deterministic NumPy input arrays and set a random seed when randomness is required. Build a solution specifically for **Array broadcasting challenge**. Document the input you used and the exact output you obtained. Print the array shape/dtype and the requested result with enough precision to verify it manually.
 
-**Acceptance criteria:** The program runs without uncaught errors for valid input, uses meaningful names, and produces a result that can be checked manually.
+**Acceptance criteria:**
+- Required behavior works for the stated example.
+- Include at least 3 test cases: normal, boundary, and invalid/empty input where applicable.
+- Output is deterministic and easy to verify manually.
+- Use meaningful names and keep the solution scoped to the concept being practiced.
+- Do not use machine-specific paths or hard-coded credentials.
 
-**Challenge:** Add one improvement such as validation, reusable functions, or a more efficient implementation.
+**Challenge:** Add one extension that increases realism without changing the core requirement (for example validation, reusable functions, sorting, reporting, or a second input case).
 
-**Interview question:** Explain the key Python/data concept used here and when you would choose it over an alternative.
+**Interview question:** Why is **Array broadcasting challenge** useful, and what common mistake would you watch for when implementing it?
 
 ---
 
 ## Lab 2: Vectorized normalization
 
-**Objective:** Build a working solution for **Vectorized normalization** using the concepts already taught in the course.
+**Objective:** Practice **Vectorized normalization** by completing a small, testable task rather than only writing a demonstration.
 
-**Task:** Create a small, realistic example. Include normal input, one edge case, and a short explanation of your approach.
+**Task:** Create deterministic NumPy input arrays and set a random seed when randomness is required. Build a solution specifically for **Vectorized normalization**. Document the input you used and the exact output you obtained. Print the array shape/dtype and the requested result with enough precision to verify it manually.
 
-**Acceptance criteria:** The program runs without uncaught errors for valid input, uses meaningful names, and produces a result that can be checked manually.
+**Acceptance criteria:**
+- Required behavior works for the stated example.
+- Include at least 3 test cases: normal, boundary, and invalid/empty input where applicable.
+- Output is deterministic and easy to verify manually.
+- Use meaningful names and keep the solution scoped to the concept being practiced.
+- Do not use machine-specific paths or hard-coded credentials.
 
-**Challenge:** Add one improvement such as validation, reusable functions, or a more efficient implementation.
+**Challenge:** Add one extension that increases realism without changing the core requirement (for example validation, reusable functions, sorting, reporting, or a second input case).
 
-**Interview question:** Explain the key Python/data concept used here and when you would choose it over an alternative.
+**Interview question:** Why is **Vectorized normalization** useful, and what common mistake would you watch for when implementing it?
 
 ---
 
 ## Lab 3: Boolean masking
 
-**Objective:** Build a working solution for **Boolean masking** using the concepts already taught in the course.
+**Objective:** Practice **Boolean masking** by completing a small, testable task rather than only writing a demonstration.
 
-**Task:** Create a small, realistic example. Include normal input, one edge case, and a short explanation of your approach.
+**Task:** Create deterministic NumPy input arrays and set a random seed when randomness is required. Build a solution specifically for **Boolean masking**. Document the input you used and the exact output you obtained. Print the array shape/dtype and the requested result with enough precision to verify it manually.
 
-**Acceptance criteria:** The program runs without uncaught errors for valid input, uses meaningful names, and produces a result that can be checked manually.
+**Acceptance criteria:**
+- Required behavior works for the stated example.
+- Include at least 3 test cases: normal, boundary, and invalid/empty input where applicable.
+- Output is deterministic and easy to verify manually.
+- Use meaningful names and keep the solution scoped to the concept being practiced.
+- Do not use machine-specific paths or hard-coded credentials.
 
-**Challenge:** Add one improvement such as validation, reusable functions, or a more efficient implementation.
+**Challenge:** Add one extension that increases realism without changing the core requirement (for example validation, reusable functions, sorting, reporting, or a second input case).
 
-**Interview question:** Explain the key Python/data concept used here and when you would choose it over an alternative.
+**Interview question:** Why is **Boolean masking** useful, and what common mistake would you watch for when implementing it?
 
 ---
 
 ## Lab 4: Axis aggregation
 
-**Objective:** Build a working solution for **Axis aggregation** using the concepts already taught in the course.
+**Objective:** Practice **Axis aggregation** by completing a small, testable task rather than only writing a demonstration.
 
-**Task:** Create a small, realistic example. Include normal input, one edge case, and a short explanation of your approach.
+**Task:** Create deterministic NumPy input arrays and set a random seed when randomness is required. Build a solution specifically for **Axis aggregation**. Document the input you used and the exact output you obtained. Print the array shape/dtype and the requested result with enough precision to verify it manually.
 
-**Acceptance criteria:** The program runs without uncaught errors for valid input, uses meaningful names, and produces a result that can be checked manually.
+**Acceptance criteria:**
+- Required behavior works for the stated example.
+- Include at least 3 test cases: normal, boundary, and invalid/empty input where applicable.
+- Output is deterministic and easy to verify manually.
+- Use meaningful names and keep the solution scoped to the concept being practiced.
+- Do not use machine-specific paths or hard-coded credentials.
 
-**Challenge:** Add one improvement such as validation, reusable functions, or a more efficient implementation.
+**Challenge:** Add one extension that increases realism without changing the core requirement (for example validation, reusable functions, sorting, reporting, or a second input case).
 
-**Interview question:** Explain the key Python/data concept used here and when you would choose it over an alternative.
+**Interview question:** Why is **Axis aggregation** useful, and what common mistake would you watch for when implementing it?
 
 ---
 
 ## Lab 5: Reshape pipeline
 
-**Objective:** Build a working solution for **Reshape pipeline** using the concepts already taught in the course.
+**Objective:** Practice **Reshape pipeline** by completing a small, testable task rather than only writing a demonstration.
 
-**Task:** Create a small, realistic example. Include normal input, one edge case, and a short explanation of your approach.
+**Task:** Create deterministic NumPy input arrays and set a random seed when randomness is required. Build a solution specifically for **Reshape pipeline**. Document the input you used and the exact output you obtained. Print the array shape/dtype and the requested result with enough precision to verify it manually.
 
-**Acceptance criteria:** The program runs without uncaught errors for valid input, uses meaningful names, and produces a result that can be checked manually.
+**Acceptance criteria:**
+- Required behavior works for the stated example.
+- Include at least 3 test cases: normal, boundary, and invalid/empty input where applicable.
+- Output is deterministic and easy to verify manually.
+- Use meaningful names and keep the solution scoped to the concept being practiced.
+- Do not use machine-specific paths or hard-coded credentials.
 
-**Challenge:** Add one improvement such as validation, reusable functions, or a more efficient implementation.
+**Challenge:** Add one extension that increases realism without changing the core requirement (for example validation, reusable functions, sorting, reporting, or a second input case).
 
-**Interview question:** Explain the key Python/data concept used here and when you would choose it over an alternative.
+**Interview question:** Why is **Reshape pipeline** useful, and what common mistake would you watch for when implementing it?
 
 ---
 
 ## Lab 6: Matrix multiplication
 
-**Objective:** Build a working solution for **Matrix multiplication** using the concepts already taught in the course.
+**Objective:** Practice **Matrix multiplication** by completing a small, testable task rather than only writing a demonstration.
 
-**Task:** Create a small, realistic example. Include normal input, one edge case, and a short explanation of your approach.
+**Task:** Create deterministic NumPy input arrays and set a random seed when randomness is required. Build a solution specifically for **Matrix multiplication**. Document the input you used and the exact output you obtained. Print the array shape/dtype and the requested result with enough precision to verify it manually.
 
-**Acceptance criteria:** The program runs without uncaught errors for valid input, uses meaningful names, and produces a result that can be checked manually.
+**Acceptance criteria:**
+- Required behavior works for the stated example.
+- Include at least 3 test cases: normal, boundary, and invalid/empty input where applicable.
+- Output is deterministic and easy to verify manually.
+- Use meaningful names and keep the solution scoped to the concept being practiced.
+- Do not use machine-specific paths or hard-coded credentials.
 
-**Challenge:** Add one improvement such as validation, reusable functions, or a more efficient implementation.
+**Challenge:** Add one extension that increases realism without changing the core requirement (for example validation, reusable functions, sorting, reporting, or a second input case).
 
-**Interview question:** Explain the key Python/data concept used here and when you would choose it over an alternative.
+**Interview question:** Why is **Matrix multiplication** useful, and what common mistake would you watch for when implementing it?
 
 ---
 
 ## Lab 7: Linear solve
 
-**Objective:** Build a working solution for **Linear solve** using the concepts already taught in the course.
+**Objective:** Practice **Linear solve** by completing a small, testable task rather than only writing a demonstration.
 
-**Task:** Create a small, realistic example. Include normal input, one edge case, and a short explanation of your approach.
+**Task:** Create deterministic NumPy input arrays and set a random seed when randomness is required. Build a solution specifically for **Linear solve**. Document the input you used and the exact output you obtained. Print the array shape/dtype and the requested result with enough precision to verify it manually.
 
-**Acceptance criteria:** The program runs without uncaught errors for valid input, uses meaningful names, and produces a result that can be checked manually.
+**Acceptance criteria:**
+- Required behavior works for the stated example.
+- Include at least 3 test cases: normal, boundary, and invalid/empty input where applicable.
+- Output is deterministic and easy to verify manually.
+- Use meaningful names and keep the solution scoped to the concept being practiced.
+- Do not use machine-specific paths or hard-coded credentials.
 
-**Challenge:** Add one improvement such as validation, reusable functions, or a more efficient implementation.
+**Challenge:** Add one extension that increases realism without changing the core requirement (for example validation, reusable functions, sorting, reporting, or a second input case).
 
-**Interview question:** Explain the key Python/data concept used here and when you would choose it over an alternative.
+**Interview question:** Why is **Linear solve** useful, and what common mistake would you watch for when implementing it?
 
 ---
 
 ## Lab 8: Random simulation
 
-**Objective:** Build a working solution for **Random simulation** using the concepts already taught in the course.
+**Objective:** Practice **Random simulation** by completing a small, testable task rather than only writing a demonstration.
 
-**Task:** Create a small, realistic example. Include normal input, one edge case, and a short explanation of your approach.
+**Task:** Create deterministic NumPy input arrays and set a random seed when randomness is required. Build a solution specifically for **Random simulation**. Document the input you used and the exact output you obtained. Print the array shape/dtype and the requested result with enough precision to verify it manually.
 
-**Acceptance criteria:** The program runs without uncaught errors for valid input, uses meaningful names, and produces a result that can be checked manually.
+**Acceptance criteria:**
+- Required behavior works for the stated example.
+- Include at least 3 test cases: normal, boundary, and invalid/empty input where applicable.
+- Output is deterministic and easy to verify manually.
+- Use meaningful names and keep the solution scoped to the concept being practiced.
+- Do not use machine-specific paths or hard-coded credentials.
 
-**Challenge:** Add one improvement such as validation, reusable functions, or a more efficient implementation.
+**Challenge:** Add one extension that increases realism without changing the core requirement (for example validation, reusable functions, sorting, reporting, or a second input case).
 
-**Interview question:** Explain the key Python/data concept used here and when you would choose it over an alternative.
+**Interview question:** Why is **Random simulation** useful, and what common mistake would you watch for when implementing it?
 
 ---
 
 ## Lab 9: Array performance
 
-**Objective:** Build a working solution for **Array performance** using the concepts already taught in the course.
+**Objective:** Practice **Array performance** by completing a small, testable task rather than only writing a demonstration.
 
-**Task:** Create a small, realistic example. Include normal input, one edge case, and a short explanation of your approach.
+**Task:** Create deterministic NumPy input arrays and set a random seed when randomness is required. Build a solution specifically for **Array performance**. Document the input you used and the exact output you obtained. Print the array shape/dtype and the requested result with enough precision to verify it manually.
 
-**Acceptance criteria:** The program runs without uncaught errors for valid input, uses meaningful names, and produces a result that can be checked manually.
+**Acceptance criteria:**
+- Required behavior works for the stated example.
+- Include at least 3 test cases: normal, boundary, and invalid/empty input where applicable.
+- Output is deterministic and easy to verify manually.
+- Use meaningful names and keep the solution scoped to the concept being practiced.
+- Do not use machine-specific paths or hard-coded credentials.
 
-**Challenge:** Add one improvement such as validation, reusable functions, or a more efficient implementation.
+**Challenge:** Add one extension that increases realism without changing the core requirement (for example validation, reusable functions, sorting, reporting, or a second input case).
 
-**Interview question:** Explain the key Python/data concept used here and when you would choose it over an alternative.
+**Interview question:** Why is **Array performance** useful, and what common mistake would you watch for when implementing it?
 
 ---
 
 ## Lab 10: NumPy mini project
 
-**Objective:** Build a working solution for **NumPy mini project** using the concepts already taught in the course.
+**Objective:** Practice **NumPy mini project** by completing a small, testable task rather than only writing a demonstration.
 
-**Task:** Create a small, realistic example. Include normal input, one edge case, and a short explanation of your approach.
+**Task:** Create deterministic NumPy input arrays and set a random seed when randomness is required. Build a solution specifically for **NumPy mini project**. Document the input you used and the exact output you obtained. Print the array shape/dtype and the requested result with enough precision to verify it manually.
 
-**Acceptance criteria:** The program runs without uncaught errors for valid input, uses meaningful names, and produces a result that can be checked manually.
+**Acceptance criteria:**
+- Required behavior works for the stated example.
+- Include at least 3 test cases: normal, boundary, and invalid/empty input where applicable.
+- Output is deterministic and easy to verify manually.
+- Use meaningful names and keep the solution scoped to the concept being practiced.
+- Do not use machine-specific paths or hard-coded credentials.
 
-**Challenge:** Add one improvement such as validation, reusable functions, or a more efficient implementation.
+**Challenge:** Add one extension that increases realism without changing the core requirement (for example validation, reusable functions, sorting, reporting, or a second input case).
 
-**Interview question:** Explain the key Python/data concept used here and when you would choose it over an alternative.
-
----
+**Interview question:** Why is **NumPy mini project** useful, and what common mistake would you watch for when implementing it?
 
