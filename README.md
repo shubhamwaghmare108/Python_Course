@@ -1,74 +1,40 @@
 # Python Course
 
-A structured, hands-on Python course for classroom teaching, self-study, interview preparation, and data/analytics workflows.
-
-## Course philosophy
-
-**Learn → Code → Practice → Build → Review**
-
-## Curriculum
-
-| Module | Topic |
-|---|---|
-| 01 | Python Basics |
-| 02 | Control Flow |
-| 03 | Data Structures |
-| 04 | Functions |
-| 05 | Object-Oriented Programming |
-| 06 | Exception Handling |
-| 07 | File Handling |
-| 08 | Modules & Packages |
-| 09 | Regular Expressions |
-| 10 | Iterators & Generators |
-| 11 | Decorators |
-| 12 | Logging |
-| 13 | NumPy |
-| 14 | Pandas |
-| 15 | Matplotlib |
-| 16 | Seaborn |
-| 17 | Plotly |
-| 18 | SQL & PyMySQL |
-| 19 | Exploratory Data Analysis |
-| 20 | PySpark |
+A structured, classroom-ready Python curriculum curated from the teaching material in B07_Python.
 
 ## Learning path
 
-**Beginner:** Modules 01–07
+01 Python Basics → 02 Control Flow → 03 Data Structures → 04 Functions → 05 OOP → 06 Exceptions → 07 File Handling → 08 Modules → 09 Regular Expressions → 10 Iterators/Generators → 11 Decorators → 12 Logging → 13 NumPy → 14 Pandas → 15 Matplotlib → 16 Seaborn → 17 Plotly → 18 SQL/PyMySQL → 19 EDA → 20 PySpark.
 
-**Intermediate:** Modules 08–12
+## Curation philosophy
 
-**Data / Analytics:** Modules 13–19
+The source material is curated rather than copied wholesale. Large notebooks are split into focused lessons, execution output is removed, machine-specific paths are excluded, and database examples use environment variables.
 
-**Big Data:** Module 20
+## Practice
 
-## Repository layout
-
-- `01-python-basics/` through `20-pyspark/` — curriculum
-- `exercises/` — practice problems by difficulty
-- `projects/` — end-to-end projects
-- `notebooks/` — curated Jupyter notebooks
-- `datasets/` — dataset documentation
-- `tests/` — automated tests
+The repository now contains **100 structured labs** across beginner, intermediate, and advanced levels. Each lab includes an implementation task, edge case, extension challenge, and interview question.
 
 ## Setup
 
 ```bash
 python -m venv .venv
-# Windows
-.venv\\Scripts\\activate
-# Linux/macOS
-source .venv/bin/activate
+# Windows: .venv\\Scripts\\activate
+# macOS/Linux: source .venv/bin/activate
+python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-## Teaching pattern
+For PySpark: `pip install -r requirements-bigdata.txt`.
 
-Each major topic should contain concept notes, runnable examples, practice questions, a hands-on lab, interview questions, and an application task where appropriate.
+Copy `.env.example` to `.env` for local configuration. Never commit `.env`.
 
-## Security
+## Repository map
 
-Never commit passwords, API keys, tokens, database credentials, SMTP credentials, local virtual environments, logs, or machine-specific configuration.
+- `01-* ... 20-*`: curriculum
+- `exercises/`: 100 labs
+- `datasets/`: teaching datasets
+- `projects/`: capstones
+- `MIGRATION.md`: migration decisions
+- `ROADMAP.md`: course evolution
 
-## Source
-
-This course is being rebuilt from a larger Python teaching repository and curated into a clean, student-friendly structure.
+The legacy B07_Python repository remains the source archive; this repository is the curated student-facing course.
