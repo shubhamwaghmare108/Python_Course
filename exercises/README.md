@@ -35,16 +35,16 @@ The five starter labs are kept as individual files:
 
 ## Intermediate
 
-- 36–45 Functions: intermediate/05-14-functions.md
-- 46–55 OOP: intermediate/15-24-oop.md
-- 56–65 Files & Errors: intermediate/25-34-files-errors.md
+- 36–45 Functions: intermediate/36-45-functions.md
+- 46–55 OOP: intermediate/46-55-oop.md
+- 56–65 Files & Errors: intermediate/56-65-files-errors.md
 
 The grouped files use local Lab 1–10 headings; the ranges above are the course-wide progression.
 
 ## Advanced
 
-- 66–75 NumPy: advanced/02-11-numpy.md
-- 76–85 Pandas: advanced/12-21-pandas.md
-- 86–95 Data, SQL & PySpark: advanced/22-31-data.md
+- 66–75 NumPy: advanced/66-75-numpy.md
+- 76–85 Pandas: advanced/76-85-pandas.md
+- 86–95 Data, SQL & PySpark: advanced/86-95-data.md
 
 The five advanced starter labs remain in advanced/01-pandas-eda.md and complete Labs 96–100 in the curriculum.
