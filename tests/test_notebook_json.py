@@ -1,3 +1,4 @@
+import ast
 import json
 from pathlib import Path
 
@@ -17,6 +18,11 @@ def test_notebook_is_valid_json(path):
 
     assert data.get("nbformat") in (4, 5)
     assert isinstance(data.get("cells"), list)
-    for cell in data["cells"]:
+    for index, cell in enumerate(data["cells"]):
         assert cell.get("cell_type") in {"code", "markdown", "raw"}
         assert isinstance(cell.get("source"), list)
+
+        if cell.get("cell_type") == "code":
+            source = "".join(cell["source"])
+            if source.strip():
+                ast.parse(source, filename=f"{path}:cell-{index}")
