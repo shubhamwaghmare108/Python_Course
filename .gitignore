@@ -1,0 +1,38 @@
+# Virtual environments
+.venv/
+venv/
+env/
+demo_venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Secrets / local configuration
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Local temporary files
+tmp/
+temp/
